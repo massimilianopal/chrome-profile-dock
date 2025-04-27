@@ -55,9 +55,7 @@ Each app will open Chrome directly in the selected profile.
 
 ## License
 
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share it!
-
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ---
 
 ## Contributing
