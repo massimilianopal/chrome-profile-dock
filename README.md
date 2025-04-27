@@ -6,7 +6,7 @@ A small macOS utility to quickly create standalone Google Chrome profile apps, a
 
 ## Download
 
-[⬇️ Download ChromeProfileCreator.dmg](https://github.com/massimilianopal/chrome-profile-dock/releases/latest)
+[Download ChromeProfileCreator.dmg](https://github.com/massimilianopal/chrome-profile-dock/releases/latest)
 
 *(Click to download the latest version)*
 
@@ -36,7 +36,7 @@ Just fast, clean, native-style Chrome profiles on your Dock!
 
 ## Installation
 
-1. [Download the latest `.dmg` release](#) (replace with your link)
+1. [Download the latest `.dmg` release](#)
 2. Open the DMG
 3. Drag **Chrome Profile Creator.app** into your **Applications** folder
 
