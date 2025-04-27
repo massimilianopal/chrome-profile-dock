@@ -53,6 +53,17 @@ Each app will open Chrome directly in the selected profile.
 
 ---
 
+## Acknowledgements
+
+This project was created with the help of **ChatGPT**, which assisted in structuring and refining the app creation process.
+
+The application was built using **Apple Automator** and **AppleScript**, fully leveraging native macOS tools without external dependencies.
+
+Special thanks to OpenAI's ChatGPT for the continuous support during the project development!
+
+---
+
+
 ##  License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
