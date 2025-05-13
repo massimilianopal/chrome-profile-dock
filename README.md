@@ -18,6 +18,8 @@ A small macOS utility to quickly create standalone Google Chrome profile apps, a
 If you prefer to build the app manually using Automator (no precompiled executable),  
 you can follow the steps in [`AUTOMATOR_VERSION.md`](./AUTOMATOR_VERSION.md)
 
+---
+
 ## About
 
 On macOS, it's not possible to pin individual Chrome profiles to the Dock by default.  
